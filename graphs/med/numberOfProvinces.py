@@ -52,9 +52,7 @@ class Solution:
                                 queue.append(neighbor)
         
         return numProvinces
-                
-                
-            
+                        
 
 def main():
     solver = Solution()
